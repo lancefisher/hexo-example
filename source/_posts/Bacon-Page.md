@@ -8,7 +8,7 @@ tags:
 
 Bacon ipsum dolor amet filet mignon pancetta short ribs corned beef ham hock. Turkey sausage filet mignon jowl venison pork shankle chuck ham brisket landjaeger shank ham hock. Leberkas sirloin drumstick hamburger sausage ham hock short loin flank. Tongue capicola ground round prosciutto.
 
-<img src="bacon.jpg" alt="photo of bacon">
+{% asset_img bacon.jpg A photo of bacon %}
 
 Porchetta turducken ham hock shoulder. Turkey tongue jerky shankle kevin bresaola. Tri-tip jowl frankfurter, pork loin pastrami biltong doner flank swine shank meatloaf. Jowl chicken pig pork loin corned beef pork chop, spare ribs ribeye.
 
